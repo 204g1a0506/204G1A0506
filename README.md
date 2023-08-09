@@ -1,7 +1,7 @@
-<h1/>Getting Started with Create React App
+<h1>Getting Started with Create React App</h1>
 
-<h1/>Available Scripts
-<p/>In the project directory, you can run:
+<h3>Available Scripts</h3>
+In the project directory, you can run:
 
 <h2/>npm start
 <p>Runs the app in the development mode.
