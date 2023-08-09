@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1/>Getting Started with Create React App
 
-<!--
-**204g1a0506/204G1A0506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1/>Available Scripts
+<p/>In the project directory, you can run:
 
-Here are some ideas to get you started:
+<h2/>npm start
+<p>Runs the app in the development mode.
+Open http://localhost:3000 to view it in your browser.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2/>npm test
+<p>Launches the test runner in the interactive watch mode.</p>
+
+<h2/>npm run build
+<p/>Builds the app for production to the build folder.
+
+<p>The build is minified and the filenames include the hashes.
+Your app is ready to be deployed!</p>
