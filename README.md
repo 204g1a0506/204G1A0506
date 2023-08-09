@@ -3,15 +3,15 @@
 <h3>Available Scripts</h3>
 In the project directory, you can run:
 
-<h2/>npm start
-<p>Runs the app in the development mode.
-Open http://localhost:3000 to view it in your browser.</p>
+<h3>npm start</h3>
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in your browser.
 
-<h2/>npm test
-<p>Launches the test runner in the interactive watch mode.</p>
+<h2>npm test</h2>
+Launches the test runner in the interactive watch mode.
 
-<h2/>npm run build
-<p/>Builds the app for production to the build folder.
+<h3>npm run build</h3>
+Builds the app for production to the build folder.
 
-<p>The build is minified and the filenames include the hashes.
-Your app is ready to be deployed!</p>
+The build is minified and the filenames include the hashes.
+Your app is ready to be deployed.
